@@ -1,2 +1,4 @@
-import 'package:flutter/material.dart';
-void main() => runApp(const MaterialApp(home: Scaffold(body: Center(child: Text('Game Studio 100 - prototype pending')))));
+import 'app/bootstrap.dart';
+import 'game/game_config.dart';
+
+void main() => bootstrap(gameConfig);
