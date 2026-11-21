@@ -1,5 +1,5 @@
-import '../core/level_plan.dart';
-import '../core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 import 'word_kit.dart';
 
 /// Crossword: words placed on a grid with clues.
